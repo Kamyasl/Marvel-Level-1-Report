@@ -121,7 +121,7 @@ Further, I implemented logical operations like: AND, OR, XOR and also negation/i
 
 The carry-out of the adder is displayed, and an LED is lit through an AND gate only when the carry is 1 and S2 S1 S0 = 000, since the carry is meaningful only for add/subtract. I tested the circuit with different values of A, B, M and the select lines to verify each operation.
 
-## Task 7: The PCB Revolution
+<!-- ## Task 7: The PCB Revolution -->
 
 ## Task 8: Convolution Countdown
 In this task i learnt about the basis of Digital Signal Processing (DSP)and learnt to perform convolution operation in MATLAB. 
